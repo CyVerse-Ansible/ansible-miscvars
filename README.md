@@ -1,5 +1,6 @@
 ansible-miscvars
 ================
+[![Build Status](https://travis-ci.org/CyVerse-Ansible/ansible-miscvars.svg?branch=master)](https://travis-ci.org/CyVerse-Ansible/ansible-miscvars)
 
 An Ansible role which contains non-standard variables for use in other playbooks
 
