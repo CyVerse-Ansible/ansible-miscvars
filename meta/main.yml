@@ -12,6 +12,7 @@ galaxy_info:
     versions:
     - any
 
-  galaxy_tags: []
+  galaxy_tags: 
+      - misc
 
 dependencies: []
